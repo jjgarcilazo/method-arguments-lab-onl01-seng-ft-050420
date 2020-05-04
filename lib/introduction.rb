@@ -1,6 +1,6 @@
 # lib/introduction.rb
 
-def introduction(Josh)
+def introduction(Jesse)
   puts "Hi, my name is #{name}."
 end
 def introduction_with_language(name, language)
